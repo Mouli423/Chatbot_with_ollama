@@ -26,10 +26,15 @@ Without Ollama, the chatbot will not run.
 #### 🧠 Features
 
 ✔ Runs fully locally — no API keys required
+
 ✔ Uses LangChain for LLM invocation
+
 ✔ Built with Streamlit for an interactive UI
+
 ✔ Supports any Ollama model (Llama, Mistral, Gemma, Phi, Qwen, etc.)
+
 ✔ Clean modular code
+
 ✔ Easy to extend for RAG, Memory, Tools, API Agents
 
 #### 📦 Tech Stack
