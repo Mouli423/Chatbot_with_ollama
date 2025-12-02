@@ -29,7 +29,7 @@ def generate_response(question,llm):
     answer=chain.invoke({"question":question})
     return answer
 
-st.title("Streamlit Web application Practice ")
+st.title("Local LLM Chatbot Using Ollama ")
 
 llm=st.sidebar.selectbox("select open source model",["gemma3:1b","llama3:latest"])
 
